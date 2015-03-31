@@ -17,7 +17,7 @@ var setPropertiesOnArrayObj = function(arr){
   };
 };
 
-var setPropertiesOnFunctionObj(functionObject){
+var setPropertiesOnFunctionObj = function(functionObject){
   functionObject = function(){
     return functionObject();
   };
