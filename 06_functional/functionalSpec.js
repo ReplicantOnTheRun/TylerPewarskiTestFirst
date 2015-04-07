@@ -1,6 +1,6 @@
 
 // functions that iterate over collections and perform some function
-
+  
 // map takes an array, performs a function on each element
 // and returns an array with the result of that function
 describe("map", function() {
